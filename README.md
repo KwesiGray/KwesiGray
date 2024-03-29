@@ -1,4 +1,4 @@
-### Hi there Folks👋
+### Hi there Folks👋 I am David Graham 😄
 
 <!--
 **KwesiGray/KwesiGray** is a ✨ _SPECIAL_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
