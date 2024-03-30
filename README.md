@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Graham🤠</h1>
 <h3 align="center">I'm a passionate developer with experience in various areas🦾:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kwesigray&label=Profile%20views&color=0e75b6&style=flat" alt="kwesigray" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kwesigray&label=Profile%20Views&color=FF0000&style=flat" alt="kwesigray" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kwesigray" alt="kwesigray" /></a> </p>
 
