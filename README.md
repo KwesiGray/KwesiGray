@@ -15,7 +15,7 @@
 
 - 💬 Ask me about: **Python|Java|HTML|CSS| Anything Concerning Programming I am Willing To Help!**
 
-- 📫 How to reach me **cypherrix5@icloud.com**
+- 📫 How to reach me on my email**cypherrix5@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
