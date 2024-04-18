@@ -9,7 +9,7 @@
 
 - 🤝**Web Development🕸**: Building user interfaces with HTML, CSS, and JavaScript (Frontend ).
 
-- 🌱 I’m currently learning To become **A full-fledged A.I Developer🌱!*
+- 🌱 I’m currently learning To become **A fully-fledged A.I Developer🌱!*
 
 - 👯 I’m looking to collaborate on ***Python | A.I***
 
