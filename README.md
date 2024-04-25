@@ -17,7 +17,7 @@
 
 - 📫 How to reach me on my email**cypherrix5@icloud.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect With Me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/david-graham-8b9307233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/david-graham-8b9307233" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_g.ra.y/?next=%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_g.ra.y/?next=%2f" height="30" width="40" /></a>
