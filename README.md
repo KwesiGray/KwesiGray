@@ -7,7 +7,7 @@
 
 - 🔭 **Python Development🐍**: Scripting with Python and exploring the World of AI .
 
-- 🤝**Web Development🕸**: Building User Interfaces With HTML, CSS, and JavaScript (Frontend ).
+- 🤝**Web Development🕸**: Building User Interfaces With HTML, CSS, and JavaScript (Frontend).
 
 - 🌱 I’m currently learning To become **A fully-fledged A.I Developer🌱!*
 
