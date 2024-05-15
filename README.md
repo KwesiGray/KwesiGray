@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kwesigray" alt="kwesigray" /></a> </p>
 
-- 🔭 **Python Development🐍**: Scripting with Python and exploring the World of AI .
+- 🔭 **Python Development🐍**: Scripting with Python and Exploring the World of AI .
 
 - 🤝**Web Development🕸**: Building User Interfaces With HTML, CSS, and JavaScript (Frontend).
 
