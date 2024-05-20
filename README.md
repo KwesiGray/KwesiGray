@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning To become **A fully-fledged A.I Developer🌱! & A Network Engineer🛰**
 
-- 👯 I’m Looking to collaborate on ***Python | A.I Projects***
+- 👯 I’m Looking to collaborate on ***Python | A.I Projects| Network Engineering Projects***
 
 - 💬 Ask me about: **Python|Java|HTML|CSS| Anything Concerning Programming I am Willing To Help Out!**
 
