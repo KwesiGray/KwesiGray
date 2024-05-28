@@ -13,7 +13,7 @@
 
 - 👯 I’m Looking to collaborate on ***Python | A.I Projects| Network Engineering Projects***
 
-- 💬 Ask me about: **Python|Java|HTML|CSS| Anything Concerning Programming I am Willing To Help Out!**
+- 💬 Ask me about: **Python|Java|HTML|CSS| Anything Concerning Programming am Willing To Help Out!**
 
 - 📫 How to reach me on my email :**cypherrix5@icloud.com**
 
