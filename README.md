@@ -38,7 +38,7 @@
 ![Python](https://img.shields.io/badge/Python-0D1B3E?style=for-the-badge&logo=python&logoColor=C9A84C)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1B3E?style=for-the-badge&logo=javascript&logoColor=C9A84C)
 ![Dart](https://img.shields.io/badge/Dart-0D1B3E?style=for-the-badge&logo=dart&logoColor=C9A84C)
-![C#](https://img.shields.io/badge/C%23-0D1B3E?style=for-the-badge&logo=csharp&logoColor=C9A84C)
+
 
 **Backend & Frameworks**
 
@@ -55,7 +55,7 @@
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1B3E?style=for-the-badge&logo=postgresql&logoColor=C9A84C)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1B3E?style=for-the-badge&logo=mongodb&logoColor=C9A84C)
+
 
 **AI & Machine Learning**
 
@@ -78,8 +78,6 @@
 |---------|-------------|-------|
 | [Gray Technologies](https://graytechnologies.tech) | Personal portfolio & company website — built from scratch and deployed to production | React, Tailwind, Framer Motion |
 | Solar Radiation Prediction | ML model predicting solar radiation from environmental variables, deployed as a web app | Python, Scikit-Learn, Flask |
-| AI Chatbot Companion | LLM-powered chatbot guiding university enrollment queries | Python, NLP, LLMs, Flask |
-| IoT Smart Helmet | Mining safety system with real-time air quality monitoring and mobile app | IoT, Flutter, REST APIs |
 
 ---
 
